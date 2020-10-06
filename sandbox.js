@@ -3,7 +3,7 @@ window.onload = function(){
   var button = document.querySelector("button");
   var body = document.querySelector("body");
 
-  var colors = ["aquamarine", "steelblue", "tomato" "cornflowerblue", "limegreen", "peachpuff"];
+  var colors = ["aquamarine", "steelblue", "tomato", "cornflowerblue", "limegreen", "peachpuff"];
 
   button.addEventListener("click", function(){
 
