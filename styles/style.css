@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button{
+  display: inline-block;
+  background-color: transparent;
+  padding: 4px;
+  font-size: 16px;
+  border: 2px solid forestgreen;
+  color: forestgreen;
+  border-radius: 10px;
+}
+
+button:hover{
+  background-color: forestgreen;
+  color: #fff;
+}
